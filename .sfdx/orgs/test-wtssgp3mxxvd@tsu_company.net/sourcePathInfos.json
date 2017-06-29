@@ -1,0 +1,816 @@
+[
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1498758208000,
+            "changeTime": 1498758208000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1498758214000,
+            "changeTime": 1498758214000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "3df8033f80e11fefd4a514d70989d592a62a1fec"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1498757792000,
+            "changeTime": 1498757792000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1498758889000,
+            "changeTime": 1498758889000,
+            "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3679,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "e6fad1dbc148f2f5ea540b321026ca79a0d0e829"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 755,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/CustomerPriority__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 944,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/NumberofLocations__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 415,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLAExpirationDate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLASerialNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SLA__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1091,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/UpsellOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 940,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/webLinks/Billing.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 747,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews/PlatinumandGoldSLACustomers.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 452,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10757,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10757,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10773,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10769,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5961,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "a6a31594a882e6f5f5aa706ce3a4d37b87313f26"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1360,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "bfd837c31714ac93bd124f417af03e00cc54688b"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/webLinks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/webLinks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1498759602000,
+            "changeTime": 1498759602000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
