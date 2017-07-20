@@ -49,11 +49,11 @@
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1498766714000,
-            "changeTime": 1498766714000,
+            "size": 204,
+            "modifiedTime": 1498766290000,
+            "changeTime": 1498766290000,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -866,14 +866,14 @@
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 203,
             "modifiedTime": 1498766459000,
             "changeTime": 1498766459000,
-            "contentHash": "3441fefd9272a4529875e8720abf9bbe5c2b756a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "3441fefd9272a4529875e8720abf9bbe5c2b756a"
         }
     ],
     [
@@ -1061,14 +1061,14 @@
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 335,
+            "modifiedTime": 1498765120000,
+            "changeTime": 1498765120000,
+            "contentHash": "efea5f1e1174aa3663842a1d159b2d95586a29aa",
             "isMetadataFile": false,
-            "size": 407,
-            "modifiedTime": 1498766860000,
-            "changeTime": 1498766860000,
-            "contentHash": "871b038938b0884bf95d047d32238c48230e88a2"
+            "state": "u"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1498765146000,
+            "changeTime": 1498765146000,
+            "contentHash": "c419962b0a578db6daaa2391f8f9d89e4218c947",
             "isMetadataFile": false,
-            "size": 396,
-            "modifiedTime": 1498766915000,
-            "changeTime": 1498766915000,
-            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
+            "state": "u"
         }
     ],
     [
@@ -1256,14 +1256,14 @@
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1498766290000,
             "changeTime": 1498766290000,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -1273,36 +1273,36 @@
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 334,
-            "modifiedTime": 1498766985000,
-            "changeTime": 1498766985000,
-            "contentHash": "92889a67c41b02634d6e865046878b99c71cdc2f"
+            "size": 261,
+            "modifiedTime": 1498766337000,
+            "changeTime": 1498766337000,
+            "contentHash": "b34fcebfb5dc798f7cf6689df2f96cc92eb6f534"
         }
     ],
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1498766290000,
             "changeTime": 1498766290000,
-            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
         }
     ],
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 43,
             "modifiedTime": 1498766384000,
             "changeTime": 1498766384000,
-            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
         }
     ],
     [
@@ -1312,75 +1312,36 @@
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 897,
-            "modifiedTime": 1498767042000,
-            "changeTime": 1498767042000,
-            "contentHash": "484d5bdb03db2cf5b78d24c5ce37425522577b23"
+            "size": 457,
+            "modifiedTime": 1498766357000,
+            "changeTime": 1498766357000,
+            "contentHash": "dcc4d25b361853916fc5eda84245bf59c5373e76"
         }
     ],
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1498766290000,
             "changeTime": 1498766290000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1498766290000,
             "changeTime": 1498766290000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1498766714000,
-            "changeTime": 1498766714000,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 101,
-            "modifiedTime": 1498766747000,
-            "changeTime": 1498766747000,
-            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
-        }
-    ],
-    [
-        "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/tsu/Documents/My Education/Salesforce/Salesforce DX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1498766714000,
-            "changeTime": 1498766714000,
-            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
